@@ -1,0 +1,63 @@
+
+Cache:  1000
+LRU
+HYBRID
+Static Cache Size: 900
+Dynamic Cache Size: 100
+Lat: 86528252.0
+Sess cnt: 1467700
+Sess lat: 58.954998978
+
+Cache:  12000
+LRU
+HYBRID
+Static Cache Size: 10800
+Dynamic Cache Size: 1200
+Lat: 71651212.0
+Sess cnt: 1467700
+Sess lat: 48.8187040948
+
+Cache:  6000
+LRU
+HYBRID
+Static Cache Size: 5400
+Dynamic Cache Size: 600
+Lat: 76159272.0
+Sess cnt: 1467700
+Sess lat: 51.8902173469
+
+Cache:  2000
+LRU
+HYBRID
+Static Cache Size: 1800
+Dynamic Cache Size: 200
+Lat: 82665036.0
+Sess cnt: 1467700
+Sess lat: 56.3228425428
+
+Cache:  500
+LRU
+HYBRID
+Static Cache Size: 450
+Dynamic Cache Size: 50
+Lat: 89953004.0
+Sess cnt: 1467700
+Sess lat: 61.2884131635
+
+Cache:  400
+LRU
+HYBRID
+Static Cache Size: 360
+Dynamic Cache Size: 40
+Lat: 90953964.0
+Sess cnt: 1467700
+Sess lat: 61.9704053962
+
+Cache:  100
+LRU
+HYBRID
+Static Cache Size: 90
+Dynamic Cache Size: 10
+Lat: 95910212.0
+Sess cnt: 1467700
+Sess lat: 65.3472862302

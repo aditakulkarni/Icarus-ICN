@@ -1,0 +1,780 @@
+
+Cache:  2000
+LCE
+LCE Cache Dump of  0 1000000 2000
+LCE Cache Dump of  1 1000000 2000
+LCE Cache Dump of  2 1000000 2000
+LCE Cache Dump of  20 1000000 2000
+LCE Cache Dump of  21 1000000 2000
+LCE Cache Dump of  22 1000000 2000
+LCE Cache Dump of  23 1000000 0
+LCE Cache Dump of  24 1000000 0
+LCE Cache Dump of  25 1000000 0
+LCE Cache Dump of  26 1000000 0
+LCE Cache Dump of  29 1000000 2000
+LCE Cache Dump of  0 1500000 2000
+LCE Cache Dump of  1 1500000 2000
+LCE Cache Dump of  2 1500000 2000
+LCE Cache Dump of  20 1500000 2000
+LCE Cache Dump of  21 1500000 2000
+LCE Cache Dump of  22 1500000 2000
+LCE Cache Dump of  23 1500000 0
+LCE Cache Dump of  24 1500000 0
+LCE Cache Dump of  25 1500000 0
+LCE Cache Dump of  26 1500000 0
+LCE Cache Dump of  29 1500000 2000
+LCE Cache Dump of  0 2400000 2000
+LCE Cache Dump of  1 2400000 2000
+LCE Cache Dump of  2 2400000 2000
+LCE Cache Dump of  20 2400000 2000
+LCE Cache Dump of  21 2400000 2000
+LCE Cache Dump of  22 2400000 2000
+LCE Cache Dump of  23 2400000 0
+LCE Cache Dump of  24 2400000 0
+LCE Cache Dump of  25 2400000 0
+LCE Cache Dump of  26 2400000 0
+LCE Cache Dump of  29 2400000 2000
+Lat: 114282808.0
+Sess cnt: 1467700
+Sess lat: 77.865236765
+
+Cache:  3000
+CL4M
+CL4M Cache Dump of  0 1000000 3000
+CL4M Cache Dump of  1 1000000 3000
+CL4M Cache Dump of  2 1000000 3000
+CL4M Cache Dump of  20 1000000 1941
+CL4M Cache Dump of  21 1000000 3000
+CL4M Cache Dump of  22 1000000 0
+CL4M Cache Dump of  23 1000000 0
+CL4M Cache Dump of  24 1000000 0
+CL4M Cache Dump of  25 1000000 0
+CL4M Cache Dump of  26 1000000 0
+CL4M Cache Dump of  29 1000000 784
+CL4M Cache Dump of  0 1500000 3000
+CL4M Cache Dump of  1 1500000 3000
+CL4M Cache Dump of  2 1500000 3000
+CL4M Cache Dump of  20 1500000 3000
+CL4M Cache Dump of  21 1500000 3000
+CL4M Cache Dump of  22 1500000 0
+CL4M Cache Dump of  23 1500000 0
+CL4M Cache Dump of  24 1500000 0
+CL4M Cache Dump of  25 1500000 0
+CL4M Cache Dump of  26 1500000 0
+CL4M Cache Dump of  29 1500000 1486
+CL4M Cache Dump of  0 2400000 3000
+CL4M Cache Dump of  1 2400000 3000
+CL4M Cache Dump of  2 2400000 3000
+CL4M Cache Dump of  20 2400000 3000
+CL4M Cache Dump of  21 2400000 3000
+CL4M Cache Dump of  22 2400000 0
+CL4M Cache Dump of  23 2400000 0
+CL4M Cache Dump of  24 2400000 0
+CL4M Cache Dump of  25 2400000 0
+CL4M Cache Dump of  26 2400000 0
+CL4M Cache Dump of  29 2400000 3000
+Lat: 112273656.0
+Sess cnt: 1467700
+Sess lat: 76.496324862
+
+Cache:  1000
+PC
+Prob Cache Cache Dump of  0 1000000 1000
+Prob Cache Cache Dump of  1 1000000 1000
+Prob Cache Cache Dump of  2 1000000 1000
+Prob Cache Cache Dump of  20 1000000 1000
+Prob Cache Cache Dump of  21 1000000 1000
+Prob Cache Cache Dump of  22 1000000 1000
+Prob Cache Cache Dump of  23 1000000 0
+Prob Cache Cache Dump of  24 1000000 0
+Prob Cache Cache Dump of  25 1000000 0
+Prob Cache Cache Dump of  26 1000000 0
+Prob Cache Cache Dump of  29 1000000 1000
+Prob Cache Cache Dump of  0 1500000 1000
+Prob Cache Cache Dump of  1 1500000 1000
+Prob Cache Cache Dump of  2 1500000 1000
+Prob Cache Cache Dump of  20 1500000 1000
+Prob Cache Cache Dump of  21 1500000 1000
+Prob Cache Cache Dump of  22 1500000 1000
+Prob Cache Cache Dump of  23 1500000 0
+Prob Cache Cache Dump of  24 1500000 0
+Prob Cache Cache Dump of  25 1500000 0
+Prob Cache Cache Dump of  26 1500000 0
+Prob Cache Cache Dump of  29 1500000 1000
+Prob Cache Cache Dump of  0 2400000 1000
+Prob Cache Cache Dump of  1 2400000 1000
+Prob Cache Cache Dump of  2 2400000 1000
+Prob Cache Cache Dump of  20 2400000 1000
+Prob Cache Cache Dump of  21 2400000 1000
+Prob Cache Cache Dump of  22 2400000 1000
+Prob Cache Cache Dump of  23 2400000 0
+Prob Cache Cache Dump of  24 2400000 0
+Prob Cache Cache Dump of  25 2400000 0
+Prob Cache Cache Dump of  26 2400000 0
+Prob Cache Cache Dump of  29 2400000 1000
+Lat: 122027292.0
+Sess cnt: 1467700
+Sess lat: 83.1418491517
+
+Cache:  1000
+LCD
+LCD Cache Dump of  0 1000000 1000
+LCD Cache Dump of  1 1000000 1000
+LCD Cache Dump of  2 1000000 1000
+LCD Cache Dump of  20 1000000 837
+LCD Cache Dump of  21 1000000 1000
+LCD Cache Dump of  22 1000000 1000
+LCD Cache Dump of  23 1000000 0
+LCD Cache Dump of  24 10000
+Cache:  3000
+LCE
+LCE Cache Dump of  0 1000000 3000
+LCE Cache Dump of  1 1000000 3000
+LCE Cache Dump of  2 1000000 3000
+LCE Cache Dump of  20 1000000 3000
+LCE Cache Dump of  21 1000000 3000
+LCE Cache Dump of  22 1000000 3000
+LCE Cache Dump of  23 1000000 0
+LCE Cache Dump of  24 1000000 0
+LCE Cache Dump of  25 1000000 0
+LCE Cache Dump of  26 1000000 0
+LCE Cache Dump of  29 1000000 3000
+LCE Cache Dump of  0 1500000 3000
+LCE Cache Dump of  1 1500000 3000
+LCE Cache Dump of  2 1500000 3000
+LCE Cache Dump of  20 1500000 3000
+LCE Cache Dump of  21 1500000 3000
+LCE Cache Dump of  22 1500000 3000
+LCE Cache Dump of  23 1500000 0
+LCE Cache Dump of  24 1500000 0
+LCE Cache Dump of  25 1500000 0
+LCE Cache Dump of  26 1500000 0
+LCE Cache Dump of  29 1500000 3000
+LCE Cache Dump of  0 2400000 3000
+LCE Cache Dump of  1 2400000 3000
+LCE Cache Dump of  2 2400000 3000
+LCE Cache Dump of  20 2400000 3000
+LCE Cache Dump of  21 2400000 3000
+LCE Cache Dump of  22 2400000 3000
+LCE Cache Dump of  23 2400000 0
+LCE Cache Dump of  24 2400000 0
+LCE Cache Dump of  25 2400000 0
+LCE Cache Dump of  26 2400000 0
+LCE Cache Dump of  29 2400000 3000
+Lat: 113092992.0
+Sess cnt: 1467700
+Sess lat: 77.054569735
+
+Cache:  2000
+CL4M
+CL4M Cache Dump of  0 1000000 2000
+CL4M Cache Dump of  1 1000000 2000
+CL4M Cache Dump of  2 1000000 2000
+CL4M Cache Dump of  20 1000000 1408
+CL4M Cache Dump of  21 1000000 2000
+CL4M Cache Dump of  22 1000000 0
+CL4M Cache Dump of  23 1000000 0
+CL4M Cache Dump of  24 1000000 0
+CL4M Cache Dump of  25 1000000 0
+CL4M Cache Dump of  26 1000000 0
+CL4M Cache Dump of  29 1000000 614
+CL4M Cache Dump of  0 1500000 2000
+CL4M Cache Dump of  1 1500000 2000
+CL4M Cache Dump of  2 1500000 2000
+CL4M Cache Dump of  20 1500000 2000
+CL4M Cache Dump of  21 1500000 2000
+CL4M Cache Dump of  22 1500000 0
+CL4M Cache Dump of  23 1500000 0
+CL4M Cache Dump of  24 1500000 0
+CL4M Cache Dump of  25 1500000 0
+CL4M Cache Dump of  26 1500000 0
+CL4M Cache Dump of  29 1500000 1299
+CL4M Cache Dump of  0 2400000 2000
+CL4M Cache Dump of  1 2400000 2000
+CL4M Cache Dump of  2 2400000 2000
+CL4M Cache Dump of  20 2400000 2000
+CL4M Cache Dump of  21 2400000 2000
+CL4M Cache Dump of  22 2400000 0
+CL4M Cache Dump of  23 2400000 0
+CL4M Cache Dump of  24 2400000 0
+CL4M Cache Dump of  25 2400000 0
+CL4M Cache Dump of  26 2400000 0
+CL4M Cache Dump of  29 2400000 2000
+Lat: 113504048.0
+Sess cnt: 1467700
+Sess lat: 77.3346378688
+
+Cache:  2000
+PC
+Prob Cache Cache Dump of  0 1000000 2000
+Prob Cache Cache Dump of  1 1000000 2000
+Prob Cache Cache Dump of  2 1000000 2000
+Prob Cache Cache Dump of  20 1000000 2000
+Prob Cache Cache Dump of  21 1000000 2000
+Prob Cache Cache Dump of  22 1000000 1743
+Prob Cache Cache Dump of  23 1000000 0
+Prob Cache Cache Dump of  24 1000000 0
+Prob Cache Cache Dump of  25 1000000 0
+Prob Cache Cache Dump of  26 1000000 0
+Prob Cache Cache Dump of  29 1000000 2000
+Prob Cache Cache Dump of  0 1500000 2000
+Prob Cache Cache Dump of  1 1500000 2000
+Prob Cache Cache Dump of  2 1500000 2000
+Prob Cache Cache Dump of  20 1500000 2000
+Prob Cache Cache Dump of  21 1500000 2000
+Prob Cache Cache Dump of  22 1500000 2000
+Prob Cache Cache Dump of  23 1500000 0
+Prob Cache Cache Dump of  24 1500000 0
+Prob Cache Cache Dump of  25 1500000 0
+Prob Cache Cache Dump of  26 1500000 0
+Prob Cache Cache Dump of  29 1500000 2000
+Prob Cache Cache Dump of  0 2400000 2000
+Prob Cache Cache Dump of  1 2400000 2000
+Prob Cache Cache Dump of  2 2400000 2000
+Prob Cache Cache Dump of  20 2400000 2000
+Prob Cache Cache Dump of  21 2400000 2000
+Prob Cache Cache Dump of  22 2400000 2000
+Prob Cache Cache Dump of  23 2400000 0
+Prob Cache Cache Dump of  24 2400000 0
+Prob Cache Cache Dump of  25 2400000 0
+Prob Cache Cache Dump of  26 2400000 0
+Prob Cache Cache Dump of  29 2400000 2000
+Lat: 120201888.0
+Sess cnt: 1467700
+Sess lat: 81.8981317708
+
+Cache:  2000
+LCD
+LCD Cache Dump of  0 1000000 2000
+LCD Cache Dump of  1 1000000 2000
+LCD Cache Dump of  2 1000000 2000
+LCD Cache Dump of  20 1000000 1448
+LCD Cache Dump of  21 1000000 2000
+LCD Cache Dump of  22 1000000 2000
+LCD Cache Dump of  23 1000000 0
+LCD Cache Dump of  24 100
+Cache:  1000
+LCE
+LCE Cache Dump of  0 1000000 1000
+LCE Cache Dump of  1 1000000 1000
+LCE Cache Dump of  2 1000000 1000
+LCE Cache Dump of  20 1000000 1000
+LCE Cache Dump of  21 1000000 1000
+LCE Cache Dump of  22 1000000 1000
+LCE Cache Dump of  23 1000000 0
+LCE Cache Dump of  24 1000000 0
+LCE Cache Dump of  25 1000000 0
+LCE Cache Dump of  26 1000000 0
+LCE Cache Dump of  29 1000000 1000
+LCE Cache Dump of  0 1500000 1000
+LCE Cache Dump of  1 1500000 1000
+LCE Cache Dump of  2 1500000 1000
+LCE Cache Dump of  20 1500000 1000
+LCE Cache Dump of  21 1500000 1000
+LCE Cache Dump of  22 1500000 1000
+LCE Cache Dump of  23 1500000 0
+LCE Cache Dump of  24 1500000 0
+LCE Cache Dump of  25 1500000 0
+LCE Cache Dump of  26 1500000 0
+LCE Cache Dump of  29 1500000 1000
+LCE Cache Dump of  0 2400000 1000
+LCE Cache Dump of  1 2400000 1000
+LCE Cache Dump of  2 2400000 1000
+LCE Cache Dump of  20 2400000 1000
+LCE Cache Dump of  21 2400000 1000
+LCE Cache Dump of  22 2400000 1000
+LCE Cache Dump of  23 2400000 0
+LCE Cache Dump of  24 2400000 0
+LCE Cache Dump of  25 2400000 0
+LCE Cache Dump of  26 2400000 0
+LCE Cache Dump of  29 2400000 1000
+Lat: 116046460.0
+Sess cnt: 1467700
+Sess lat: 79.0668801526
+
+Cache:  4000
+CL4M
+CL4M Cache Dump of  0 1000000 4000
+CL4M Cache Dump of  1 1000000 4000
+CL4M Cache Dump of  2 1000000 4000
+CL4M Cache Dump of  20 1000000 2471
+CL4M Cache Dump of  21 1000000 4000
+CL4M Cache Dump of  22 1000000 0
+CL4M Cache Dump of  23 1000000 0
+CL4M Cache Dump of  24 1000000 0
+CL4M Cache Dump of  25 1000000 0
+CL4M Cache Dump of  26 1000000 0
+CL4M Cache Dump of  29 1000000 954
+CL4M Cache Dump of  0 1500000 4000
+CL4M Cache Dump of  1 1500000 4000
+CL4M Cache Dump of  2 1500000 4000
+CL4M Cache Dump of  20 1500000 4000
+CL4M Cache Dump of  21 1500000 4000
+CL4M Cache Dump of  22 1500000 0
+CL4M Cache Dump of  23 1500000 0
+CL4M Cache Dump of  24 1500000 0
+CL4M Cache Dump of  25 1500000 0
+CL4M Cache Dump of  26 1500000 0
+CL4M Cache Dump of  29 1500000 1682
+CL4M Cache Dump of  0 2400000 4000
+CL4M Cache Dump of  1 2400000 4000
+CL4M Cache Dump of  2 2400000 4000
+CL4M Cache Dump of  20 2400000 4000
+CL4M Cache Dump of  21 2400000 4000
+CL4M Cache Dump of  22 2400000 0
+CL4M Cache Dump of  23 2400000 0
+CL4M Cache Dump of  24 2400000 0
+CL4M Cache Dump of  25 2400000 0
+CL4M Cache Dump of  26 2400000 0
+CL4M Cache Dump of  29 2400000 3997
+Lat: 111156740.0
+Sess cnt: 1467700
+Sess lat: 75.735327383
+
+Cache:  4000
+PC
+Prob Cache Cache Dump of  0 1000000 4000
+Prob Cache Cache Dump of  1 1000000 4000
+Prob Cache Cache Dump of  2 1000000 4000
+Prob Cache Cache Dump of  20 1000000 4000
+Prob Cache Cache Dump of  21 1000000 4000
+Prob Cache Cache Dump of  22 1000000 1719
+Prob Cache Cache Dump of  23 1000000 0
+Prob Cache Cache Dump of  24 1000000 0
+Prob Cache Cache Dump of  25 1000000 0
+Prob Cache Cache Dump of  26 1000000 0
+Prob Cache Cache Dump of  29 1000000 4000
+Prob Cache Cache Dump of  0 1500000 4000
+Prob Cache Cache Dump of  1 1500000 4000
+Prob Cache Cache Dump of  2 1500000 4000
+Prob Cache Cache Dump of  20 1500000 4000
+Prob Cache Cache Dump of  21 1500000 4000
+Prob Cache Cache Dump of  22 1500000 2218
+Prob Cache Cache Dump of  23 1500000 0
+Prob Cache Cache Dump of  24 1500000 0
+Prob Cache Cache Dump of  25 1500000 0
+Prob Cache Cache Dump of  26 1500000 0
+Prob Cache Cache Dump of  29 1500000 4000
+Prob Cache Cache Dump of  0 2400000 4000
+Prob Cache Cache Dump of  1 2400000 4000
+Prob Cache Cache Dump of  2 2400000 4000
+Prob Cache Cache Dump of  20 2400000 4000
+Prob Cache Cache Dump of  21 2400000 4000
+Prob Cache Cache Dump of  22 2400000 3404
+Prob Cache Cache Dump of  23 2400000 0
+Prob Cache Cache Dump of  24 2400000 0
+Prob Cache Cache Dump of  25 2400000 0
+Prob Cache Cache Dump of  26 2400000 0
+Prob Cache Cache Dump of  29 2400000 4000
+Lat: 118479804.0
+Sess cnt: 1467700
+Sess lat: 80.7248102473
+
+Cache:  3000
+LCD
+LCD Cache Dump of  0 1000000 3000
+LCD Cache Dump of  1 1000000 3000
+LCD Cache Dump of  2 1000000 3000
+LCD Cache Dump of  20 1000000 2014
+LCD Cache Dump of  21 1000000 3000
+LCD Cache Dump of  22 1000000 3000
+LCD Cache Dump of  23 1000000 0
+LCD Cache Dump of  24 100
+Cache:  4000
+LCE
+LCE Cache Dump of  0 1000000 4000
+LCE Cache Dump of  1 1000000 4000
+LCE Cache Dump of  2 1000000 4000
+LCE Cache Dump of  20 1000000 4000
+LCE Cache Dump of  21 1000000 4000
+LCE Cache Dump of  22 1000000 4000
+LCE Cache Dump of  23 1000000 0
+LCE Cache Dump of  24 1000000 0
+LCE Cache Dump of  25 1000000 0
+LCE Cache Dump of  26 1000000 0
+LCE Cache Dump of  29 1000000 4000
+LCE Cache Dump of  0 1500000 4000
+LCE Cache Dump of  1 1500000 4000
+LCE Cache Dump of  2 1500000 4000
+LCE Cache Dump of  20 1500000 4000
+LCE Cache Dump of  21 1500000 4000
+LCE Cache Dump of  22 1500000 4000
+LCE Cache Dump of  23 1500000 0
+LCE Cache Dump of  24 1500000 0
+LCE Cache Dump of  25 1500000 0
+LCE Cache Dump of  26 1500000 0
+LCE Cache Dump of  29 1500000 4000
+LCE Cache Dump of  0 2400000 4000
+LCE Cache Dump of  1 2400000 4000
+LCE Cache Dump of  2 2400000 4000
+LCE Cache Dump of  20 2400000 4000
+LCE Cache Dump of  21 2400000 4000
+LCE Cache Dump of  22 2400000 4000
+LCE Cache Dump of  23 2400000 0
+LCE Cache Dump of  24 2400000 0
+LCE Cache Dump of  25 2400000 0
+LCE Cache Dump of  26 2400000 0
+LCE Cache Dump of  29 2400000 4000
+Lat: 111809556.0
+Sess cnt: 1467700
+Sess lat: 76.1801158275
+
+Cache:  1000
+CL4M
+CL4M Cache Dump of  0 1000000 1000
+CL4M Cache Dump of  1 1000000 1000
+CL4M Cache Dump of  2 1000000 1000
+CL4M Cache Dump of  20 1000000 796
+CL4M Cache Dump of  21 1000000 1000
+CL4M Cache Dump of  22 1000000 0
+CL4M Cache Dump of  23 1000000 0
+CL4M Cache Dump of  24 1000000 0
+CL4M Cache Dump of  25 1000000 0
+CL4M Cache Dump of  26 1000000 0
+CL4M Cache Dump of  29 1000000 388
+CL4M Cache Dump of  0 1500000 1000
+CL4M Cache Dump of  1 1500000 1000
+CL4M Cache Dump of  2 1500000 1000
+CL4M Cache Dump of  20 1500000 1000
+CL4M Cache Dump of  21 1500000 1000
+CL4M Cache Dump of  22 1500000 0
+CL4M Cache Dump of  23 1500000 0
+CL4M Cache Dump of  24 1500000 0
+CL4M Cache Dump of  25 1500000 0
+CL4M Cache Dump of  26 1500000 0
+CL4M Cache Dump of  29 1500000 1000
+CL4M Cache Dump of  0 2400000 1000
+CL4M Cache Dump of  1 2400000 1000
+CL4M Cache Dump of  2 2400000 1000
+CL4M Cache Dump of  20 2400000 1000
+CL4M Cache Dump of  21 2400000 1000
+CL4M Cache Dump of  22 2400000 0
+CL4M Cache Dump of  23 2400000 0
+CL4M Cache Dump of  24 2400000 0
+CL4M Cache Dump of  25 2400000 0
+CL4M Cache Dump of  26 2400000 0
+CL4M Cache Dump of  29 2400000 1000
+Lat: 115405284.0
+Sess cnt: 1467700
+Sess lat: 78.6300224842
+
+Cache:  3000
+PC
+Prob Cache Cache Dump of  0 1000000 3000
+Prob Cache Cache Dump of  1 1000000 3000
+Prob Cache Cache Dump of  2 1000000 3000
+Prob Cache Cache Dump of  20 1000000 3000
+Prob Cache Cache Dump of  21 1000000 3000
+Prob Cache Cache Dump of  22 1000000 1720
+Prob Cache Cache Dump of  23 1000000 0
+Prob Cache Cache Dump of  24 1000000 0
+Prob Cache Cache Dump of  25 1000000 0
+Prob Cache Cache Dump of  26 1000000 0
+Prob Cache Cache Dump of  29 1000000 3000
+Prob Cache Cache Dump of  0 1500000 3000
+Prob Cache Cache Dump of  1 1500000 3000
+Prob Cache Cache Dump of  2 1500000 3000
+Prob Cache Cache Dump of  20 1500000 3000
+Prob Cache Cache Dump of  21 1500000 3000
+Prob Cache Cache Dump of  22 1500000 2266
+Prob Cache Cache Dump of  23 1500000 0
+Prob Cache Cache Dump of  24 1500000 0
+Prob Cache Cache Dump of  25 1500000 0
+Prob Cache Cache Dump of  26 1500000 0
+Prob Cache Cache Dump of  29 1500000 3000
+Prob Cache Cache Dump of  0 2400000 3000
+Prob Cache Cache Dump of  1 2400000 3000
+Prob Cache Cache Dump of  2 2400000 3000
+Prob Cache Cache Dump of  20 2400000 3000
+Prob Cache Cache Dump of  21 2400000 3000
+Prob Cache Cache Dump of  22 2400000 3000
+Prob Cache Cache Dump of  23 2400000 0
+Prob Cache Cache Dump of  24 2400000 0
+Prob Cache Cache Dump of  25 2400000 0
+Prob Cache Cache Dump of  26 2400000 0
+Prob Cache Cache Dump of  29 2400000 3000
+Lat: 119173176.0
+Sess cnt: 1467700
+Sess lat: 81.1972310418
+
+Cache:  4000
+LCD
+LCD Cache Dump of  0 1000000 4000
+LCD Cache Dump of  1 1000000 4000
+LCD Cache Dump of  2 1000000 4000
+LCD Cache Dump of  20 1000000 2500
+LCD Cache Dump of  21 1000000 4000
+LCD Cache Dump of  22 1000000 4000
+LCD Cache Dump of  23 1000000 0
+LCD Cache Dump of  24 10000 0
+LCD Cache Dump of  25 1000000 0
+LCD Cache Dump of  26 1000000 0
+LCD Cache Dump of  29 1000000 412
+LCD Cache Dump of  0 1500000 1000
+LCD Cache Dump of  1 1500000 1000
+LCD Cache Dump of  2 1500000 1000
+LCD Cache Dump of  20 1500000 1000
+LCD Cache Dump of  21 1500000 1000
+LCD Cache Dump of  22 1500000 1000
+LCD Cache Dump of  23 1500000 0
+LCD Cache Dump of  24 1500000 0
+LCD Cache Dump of  25 1500000 0
+LCD Cache Dump of  26 1500000 0
+LCD Cache Dump of  29 1500000 807
+LCD Cache Dump of  0 2400000 1000
+LCD Cache Dump of  1 2400000 1000
+LCD Cache Dump of  2 2400000 1000
+LCD Cache Dump of  20 2400000 1000
+LCD Cache Dump of  21 2400000 1000
+LCD Cache Dump of  22 2400000 1000
+LCD Cache Dump of  23 2400000 0
+LCD Cache Dump of  24 2400000 0
+LCD Cache Dump of  25 2400000 0
+LCD Cache Dump of  26 2400000 0
+LCD Cache Dump of  29 2400000 1000
+Lat: 114859512.0
+Sess cnt: 1467700
+Sess lat: 78.2581672004
+
+Cache:  1000
+Lat: 114588832.0
+Sess cnt: 1467700
+Sess lat: 78.0737425904
+0000 0
+LCD Cache Dump of  25 1000000 0
+LCD Cache Dump of  26 1000000 0
+LCD Cache Dump of  29 1000000 633
+LCD Cache Dump of  0 1500000 2000
+LCD Cache Dump of  1 1500000 2000
+LCD Cache Dump of  2 1500000 2000
+LCD Cache Dump of  20 1500000 2000
+LCD Cache Dump of  21 1500000 2000
+LCD Cache Dump of  22 1500000 2000
+LCD Cache Dump of  23 1500000 0
+LCD Cache Dump of  24 1500000 0
+LCD Cache Dump of  25 1500000 0
+LCD Cache Dump of  26 1500000 0
+LCD Cache Dump of  29 1500000 1076
+LCD Cache Dump of  0 2400000 2000
+LCD Cache Dump of  1 2400000 2000
+LCD Cache Dump of  2 2400000 2000
+LCD Cache Dump of  20 2400000 2000
+LCD Cache Dump of  21 2400000 2000
+LCD Cache Dump of  22 2400000 2000
+LCD Cache Dump of  23 2400000 0
+LCD Cache Dump of  24 2400000 0
+LCD Cache Dump of  25 2400000 0
+LCD Cache Dump of  26 2400000 0
+LCD Cache Dump of  29 2400000 2000
+Lat: 112909036.0
+Sess cnt: 1467700
+Sess lat: 76.9292334946
+
+Cache:  2000
+Lat: 112363024.0
+Sess cnt: 1467700
+Sess lat: 76.5572146897
+0000 0
+LCD Cache Dump of  25 1000000 0
+LCD Cache Dump of  26 1000000 0
+LCD Cache Dump of  29 1000000 988
+LCD Cache Dump of  0 1500000 4000
+LCD Cache Dump of  1 1500000 4000
+LCD Cache Dump of  2 1500000 4000
+LCD Cache Dump of  20 1500000 3820
+LCD Cache Dump of  21 1500000 4000
+LCD Cache Dump of  22 1500000 4000
+LCD Cache Dump of  23 1500000 0
+LCD Cache Dump of  24 1500000 0
+LCD Cache Dump of  25 1500000 0
+LCD Cache Dump of  26 1500000 0
+LCD Cache Dump of  29 1500000 1516
+LCD Cache Dump of  0 2400000 4000
+LCD Cache Dump of  1 2400000 4000
+LCD Cache Dump of  2 2400000 4000
+LCD Cache Dump of  20 2400000 4000
+LCD Cache Dump of  21 2400000 4000
+LCD Cache Dump of  22 2400000 4000
+LCD Cache Dump of  23 2400000 0
+LCD Cache Dump of  24 2400000 0
+LCD Cache Dump of  25 2400000 0
+LCD Cache Dump of  26 2400000 0
+LCD Cache Dump of  29 2400000 3504
+Lat: 110222396.0
+Sess cnt: 1467700
+Sess lat: 75.0987231723
+
+Cache:  3000
+Lat: 110649108.0
+Sess cnt: 1467700
+Sess lat: 75.3894583362
+0000 0
+LCD Cache Dump of  25 1000000 0
+LCD Cache Dump of  26 1000000 0
+LCD Cache Dump of  29 1000000 823
+LCD Cache Dump of  0 1500000 3000
+LCD Cache Dump of  1 1500000 3000
+LCD Cache Dump of  2 1500000 3000
+LCD Cache Dump of  20 1500000 3000
+LCD Cache Dump of  21 1500000 3000
+LCD Cache Dump of  22 1500000 3000
+LCD Cache Dump of  23 1500000 0
+LCD Cache Dump of  24 1500000 0
+LCD Cache Dump of  25 1500000 0
+LCD Cache Dump of  26 1500000 0
+LCD Cache Dump of  29 1500000 1312
+LCD Cache Dump of  0 2400000 3000
+LCD Cache Dump of  1 2400000 3000
+LCD Cache Dump of  2 2400000 3000
+LCD Cache Dump of  20 2400000 3000
+LCD Cache Dump of  21 2400000 3000
+LCD Cache Dump of  22 2400000 3000
+LCD Cache Dump of  23 2400000 0
+LCD Cache Dump of  24 2400000 0
+LCD Cache Dump of  25 2400000 0
+LCD Cache Dump of  26 2400000 0
+LCD Cache Dump of  29 2400000 2885
+Lat: 111409248.0
+Sess cnt: 1467700
+Sess lat: 75.9073707161
+
+Cache:  4000
+Lat: 109503876.0
+Sess cnt: 1467700
+Sess lat: 74.6091680861
+
+Cache:  3000
+Opt
+2 1050000 50000
+3 1100000 50000
+4 1150000 50000
+5 1200000 50000
+6 1250000 50000
+7 1300000 50000
+8 1350000 50000
+9 1400000 50000
+10 1450000 50000
+11 1500000 50000
+12 1550000 50000
+13 1600000 50000
+14 1650000 50000
+15 1700000 50000
+16 1750000 50000
+17 1800000 50000
+18 1850000 50000
+19 1900000 50000
+20 1950000 50000
+21 2000000 50000
+22 2050000 50000
+23 2100000 50000
+24 2150000 50000
+25 2200000 50000
+26 2250000 50000
+27 2300000 50000
+28 2350000 50000
+29 2400000 50000
+Lat: 106905688.0
+Sess cnt: 1467700
+Sess lat: 72.8389234857
+
+Cache:  4000
+Opt
+2 1050000 50000
+3 1100000 50000
+4 1150000 50000
+5 1200000 50000
+6 1250000 50000
+7 1300000 50000
+8 1350000 50000
+9 1400000 50000
+10 1450000 50000
+11 1500000 50000
+12 1550000 50000
+13 1600000 50000
+14 1650000 50000
+15 1700000 50000
+16 1750000 50000
+17 1800000 50000
+18 1850000 50000
+19 1900000 50000
+20 1950000 50000
+21 2000000 50000
+22 2050000 50000
+23 2100000 50000
+24 2150000 50000
+25 2200000 50000
+26 2250000 50000
+27 2300000 50000
+28 2350000 50000
+29 2400000 50000
+Lat: 102552780.0
+Sess cnt: 1467700
+Sess lat: 69.8731212101
+
+Cache:  2000
+Opt
+2 1050000 50000
+3 1100000 50000
+4 1150000 50000
+5 1200000 50000
+6 1250000 50000
+7 1300000 50000
+8 1350000 50000
+9 1400000 50000
+10 1450000 50000
+11 1500000 50000
+12 1550000 50000
+13 1600000 50000
+14 1650000 50000
+15 1700000 50000
+16 1750000 50000
+17 1800000 50000
+18 1850000 50000
+19 1900000 50000
+20 1950000 50000
+21 2000000 50000
+22 2050000 50000
+23 2100000 50000
+24 2150000 50000
+25 2200000 50000
+26 2250000 50000
+27 2300000 50000
+28 2350000 50000
+29 2400000 50000
+Lat: 111457036.0
+Sess cnt: 1467700
+Sess lat: 75.9399305035
+
+Cache:  1000
+Opt
+2 1050000 50000
+3 1100000 50000
+4 1150000 50000
+5 1200000 50000
+6 1250000 50000
+7 1300000 50000
+8 1350000 50000
+9 1400000 50000
+10 1450000 50000
+11 1500000 50000
+12 1550000 50000
+13 1600000 50000
+14 1650000 50000
+15 1700000 50000
+16 1750000 50000
+17 1800000 50000
+18 1850000 50000
+19 1900000 50000
+20 1950000 50000
+21 2000000 50000
+22 2050000 50000
+23 2100000 50000
+24 2150000 50000
+25 2200000 50000
+26 2250000 50000
+27 2300000 50000
+28 2350000 50000
+29 2400000 50000
+Lat: 117497908.0
+Sess cnt: 1467700
+Sess lat: 80.055807045

@@ -1,0 +1,11 @@
+
+Cache:  101
+LRU
+HYBRID
+Static Cache Size: 100
+Dynamic Cache Size: 1
+34402 0
+34402 0
+Lat: 103354852.0
+Sess cnt: 1467700
+Sess lat: 70.4196034612

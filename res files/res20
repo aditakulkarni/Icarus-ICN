@@ -1,0 +1,36 @@
+
+Cache:  6000
+LRU
+HYBRID
+Static Cache Size: 1200
+Dynamic Cache Size: 4800
+Lat: 76267528.0
+Sess cnt: 1467700
+Sess lat: 51.9639762894
+
+Cache:  12000
+LRU
+HYBRID
+Static Cache Size: 2400
+Dynamic Cache Size: 9600
+Lat: 72356576.0
+Sess cnt: 1467700
+Sess lat: 49.2992954964
+
+Cache:  400
+LRU
+HYBRID
+Static Cache Size: 80
+Dynamic Cache Size: 320
+Lat: 86846492.0
+Sess cnt: 1467700
+Sess lat: 59.1718280303
+
+Cache:  100
+LRU
+HYBRID
+Static Cache Size: 20
+Dynamic Cache Size: 80
+Lat: 91909364.0
+Sess cnt: 1467700
+Sess lat: 62.6213558629

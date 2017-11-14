@@ -1,0 +1,35 @@
+
+Cache:  200
+LCD
+LCD hits: 97354
+Lat: 93556900.0
+Sess cnt: 1467700
+Sess lat: 63.7438849901
+
+Cache:  200
+CL4M
+CL4M hits: 101376
+Lat: 93102068.0
+Sess cnt: 1467700
+Sess lat: 63.4339905975
+
+Cache:  200
+LCE
+LCE hits: 99894
+Lat: 93559572.0
+Sess cnt: 1467700
+Sess lat: 63.7457055257
+
+Cache:  200
+Opt
+Opt hits: 517
+Lat: 106729912.0
+Sess cnt: 1467700
+Sess lat: 72.7191605914
+
+Cache:  200
+PC
+PC hits: 38056
+Lat: 102917904.0
+Sess cnt: 1467700
+Sess lat: 70.1218941201
